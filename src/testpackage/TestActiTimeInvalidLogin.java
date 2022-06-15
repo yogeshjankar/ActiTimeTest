@@ -36,6 +36,7 @@ public class TestActiTimeInvalidLogin extends BaseTest {
 		
 		
 		}
+		bt.tearDown();
 	}
 
 }
