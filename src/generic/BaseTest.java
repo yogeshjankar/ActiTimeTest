@@ -43,6 +43,7 @@ public class BaseTest implements IAutoConstant {
 
 	}
 
+	// closes the browser
 	public void tearDown()
 	{
 		driver.quit();
